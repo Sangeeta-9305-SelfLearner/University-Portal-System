@@ -15,7 +15,7 @@ Key Features and Functionalities
 
 4. Modules and Functionalities <br/>
 
-   1.Faculty and Student Management <br/>
+   1. Faculty and Student Management <br/>
       Add, update, and view faculty or student records through dedicated frames.
 
    2. Leave Management <br/>
@@ -30,15 +30,17 @@ Key Features and Functionalities
    5. Utilities <br/>
       Built-in utilities like Notepad and Calculator are integrated into the application for user convenience.
 
-   6. Database Integration <br/>
+5. Database Integration <br/>
       All data is securely stored and managed using MySQL Workbench, ensuring consistency and accuracy.
 
 Technologies Used <br/>
+
 Programming Languages:- Java Swing, Java AWT, Advanced Java <br/>
 Database:- MySQL Workbench <br/>
 Learning Resources:- YouTube tutorials, guidance from ChatGPT, and online documentation.
 
 Purpose and Impact <br/>
+
 The University Portal System simplifies academic processes like student enrollment, faculty coordination, examination management, and fee tracking. By automating these tasks, the system reduces administrative workload and ensures data accuracy while providing a user-friendly interface.
 
 This project showcases a strong understanding of Java-based GUI development, database connectivity, and real-world problem-solving.
